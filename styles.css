@@ -20,7 +20,11 @@ ul li{
   background-color:white;
   padding:1px;
 }
+.iconImg1 {
+  height: 12px;
+  width: 12px;
 
+}
 .page1 {
   background-image: url('background.png');
   width:100%;
