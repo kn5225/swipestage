@@ -23,7 +23,12 @@ ul li{
 .iconImg1 {
   height: 12px;
   width: 12px;
-
+  
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+}
 }
 .page1 {
   background-image: url('background.png');
